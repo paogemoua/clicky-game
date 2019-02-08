@@ -4,7 +4,7 @@
 
 ### Deployment
 * [Clicky-Click-Click Game]
-* [Clicky-Click-Click Game GitHub]
+* [Clicky-Click-Click GitHub]
 
 ## Visuals
 <!-- ![Home](./public/images/...) -->
@@ -60,8 +60,7 @@ Please make sure to update tests as appropriate.
 
 <!-- Linked -->
 [Clicky-Click-Click Game]: 
-[Clicky-Click-Click Game GitHub]: https://github.com/paogemoua/clicky-game
-
+[Clicky-Click-CLick GitHub]: https://github.com/paogemoua/clicky-game
 [MySQL Workbench]: https://dev.mysql.com/downloads/workbench/
 [dotenv]: https://www.npmjs.com/package/dotenv
 [express]: https://www.npmjs.com/package/express
