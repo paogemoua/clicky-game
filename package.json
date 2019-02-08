@@ -1,0 +1,22 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "A memory game that require breaking up the application's UI into components, manage component state, and respond to user events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paogemoua/clicky-game.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Paoge Moua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paogemoua/clicky-game/issues"
+  },
+  "homepage": "https://github.com/paogemoua/clicky-game#readme"
+}
