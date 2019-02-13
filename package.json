@@ -1,22 +1,25 @@
 {
-  "name": "clicky-game",
-  "version": "1.0.0",
-  "description": "A memory game that require breaking up the application's UI into components, manage component state, and respond to user events.",
-  "main": "index.js",
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-scripts": "2.1.3"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/paogemoua/clicky-game.git"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "keywords": [
-    "react"
-  ],
-  "author": "Paoge Moua",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/paogemoua/clicky-game/issues"
-  },
-  "homepage": "https://github.com/paogemoua/clicky-game#readme"
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
