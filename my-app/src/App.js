@@ -49,7 +49,7 @@ class App extends Component {
 
   if (characterClicked) {
     this.setState({
-      bobsburgers: this,state.fish.sort(function(a,b) {
+      bobsburgers: this.state.fish.sort(function(a,b) {
         return 0.5 - Math.random();
       }),
       clickedBurgers: [],
@@ -72,7 +72,7 @@ class App extends Component {
           alert("Congrats! You've won!");
           this.setState({
             bobsburgers: this.state.bobsburgers.sort(function(a,b) {
-              return 0.5 = Math.random();
+              return 0.5 - Math.random();
             }),
             clickedBurgers: [],
             score: 0
