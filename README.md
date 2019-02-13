@@ -47,8 +47,8 @@ Please make sure to update tests as appropriate.
 ## Reference
 
 ## Project Status
-2.8.2019 Project open - in progress
-2.12.2019 Fixing errors - in progress
+* 2.8.2019 Project open - in progress
+* 2.12.2019 Fixing errors - in progress
 
 ### Pending Updates
 * User accounts for saving game & comments
