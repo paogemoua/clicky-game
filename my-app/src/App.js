@@ -32,7 +32,7 @@ import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import FriendCard from "./components/FriendCard";
 import Footer from "./components/Footer";
-import bobsburgers from "./components/bobsburgers";
+import bobsburgers from "./components/bobsburgers.json";
 import "./App.css";
 
 class App extends Component {
